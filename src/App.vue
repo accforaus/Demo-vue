@@ -2,6 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Demo Josh Vue.js App"/>
+    <HelloWorld msg="Another test for Jenkins!!!!"/>
   </div>
 </template>
 
